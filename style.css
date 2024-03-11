@@ -2,13 +2,14 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Arial', sans-serif;
-    background: linear-gradient(to right, #87CEEB, #1E90FF);
+    background: linear-gradient(to right, #3c06d1, #e7e078);
   }
   
   nav {
-    background-color: #3498db;
+    background-color: #131313;
     padding: 15px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
   }
